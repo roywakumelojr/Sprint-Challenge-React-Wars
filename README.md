@@ -24,15 +24,25 @@ In this challenge, create a web page that presents a styled list of Star Wars ch
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
-- [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+- [X] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-- [ ] What does it mean to _think_ in react?
+React JS is a javascript library that can be used for creating UI (user interfaces). It can also be defined as a library that can be used for creating reusable components. Some of the problems it tries to solve are reducing the need to write repetitive code, and also makes building user interfaces a seamless process for developers.
 
-- [ ] Describe state.
+- [X] What does it mean to _think_ in react?
 
-- [ ] Describe props.
+Thinking in react refers to the ability to think of the application in the same context of how they will be built. This also makes the process of building large applications easier considering that they can be broken down into smaller segments.
 
-- [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+- [X] Describe state.
+
+A state can be defined as an object that is a part of an application and is subject to change based on specific instances. 
+
+- [X] Describe props.
+
+Props, also known as properties, are customizable components which are created from different parameters. 
+
+- [X] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+Side effects can be described as anything with the capability of affecting something outside the scope of the function being executed.
 
 ## Project Set Up
 
